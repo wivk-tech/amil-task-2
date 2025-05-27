@@ -33,13 +33,10 @@ To understand the dataset using descriptive statistics and visualizations to ide
 
 
 ## Submission
-This task was submitted as part of the internship requirement. Link to submit: [Google Form](https://forms.gle/8Gm83s53KbyXs3Ne9)
-
+This task was submitted as part of the internship requirement.
 ---
 
 ### Author
 **Vishwajeet Kumar**  
 BS in Data Science and Applications @ IIT Madras  
-BTech CSE @ LNJPIT, BEU Patna  
-GitHub: [github.com/wivk-tech](https://github.com/wivk-tech)
-
+BTech CSE @ LNJPIT, BEU Patna
