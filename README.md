@@ -29,11 +29,7 @@ To understand the dataset using descriptive statistics and visualizations to ide
 - Noticeable skew in the `Fare` distribution
 - Multicollinearity between some family-related features
 
-## Repository Structure
 
-
-## Submission
-This task was submitted as part of the internship requirement.
 ---
 
 ### Author
