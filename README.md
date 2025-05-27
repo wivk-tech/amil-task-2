@@ -39,4 +39,4 @@ This task was submitted as part of the internship requirement.
 ### Author
 **Vishwajeet Kumar**  
 BS in Data Science and Applications @ IIT Madras  
-BTech CSE @ LNJPIT, BEU Patna
+BTech CSE @ LNJPIT Chapra, BEU Patna
