@@ -30,7 +30,7 @@ To understand the dataset using descriptive statistics and visualizations to ide
 - Multicollinearity between some family-related features
 
 ## Submission
-Submitted as part of the AI & ML Internship - Task 3.
+Submitted as part of the AI & ML Internship - Task 2.
 
 
 ---
