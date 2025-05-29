@@ -29,6 +29,9 @@ To understand the dataset using descriptive statistics and visualizations to ide
 - Noticeable skew in the `Fare` distribution
 - Multicollinearity between some family-related features
 
+## Submission
+Submitted as part of the AI & ML Internship - Task 3.
+
 
 ---
 
